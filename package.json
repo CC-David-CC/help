@@ -1,0 +1,7 @@
+{
+  "name": "@webos/help",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./webos/index.mjs"
+}
